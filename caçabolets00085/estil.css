@@ -1,0 +1,126 @@
+
+
+body { 
+font-family: Courier, Monaco, monospace;
+background-color: black;
+color: lightgreen;
+padding: 0px;
+margin: 0px;
+
+}
+#global {
+width: 720px;
+position: relative;
+left: calc(50% - 360px);
+}
+#butonsaccio {
+font-family: Courier, Monaco, monospace;
+font-size: 80%;
+}
+.actionbuttons {
+
+}
+button {
+font-family: Courier, Monaco, monospace;
+font-size: 120%;
+background-color: black;
+border: none;
+padding: 0px;
+margin: 0px;
+display: inline-block;
+
+}
+a {
+color: lightyellow;
+}
+h1 {
+font-family: Courier, Monaco, monospace;
+font-size: 325%;
+padding: 0px;
+margin: 0px;
+text-align:center;
+}
+#jocmestitol {
+float: left;margin-bottom: 12px;
+}
+#titoljoc {
+font-family: Courier, Monaco, monospace;
+font-size: 100%;
+border: white solid 2px;    
+padding: 4px;
+padding-top: 4px;
+background-color: black;    
+color: white;
+height: 30px;
+width: 330px;
+text-align: center;
+
+}
+#joc {
+border: white solid 2px;
+padding: 4px;
+margin-top: 12px;
+width: 330px;
+
+}
+.botonsjoc {
+margin: -6px auto;
+margin-left: 1px;
+margin-right: 1px;
+position: relative;
+top: 7px;
+height: 20px;
+}
+#textjoc {
+width: 330px;
+border: white solid 2px;  
+padding-left: 4px;
+padding-right: 4px; 
+margin-top: 12px; 
+}
+#p1, #p2score, #p3trufes {
+font-family: Courier, Monaco, monospace;
+font-size: 95%;
+
+}
+#xuletamestitol {
+float: left;
+}
+#xuletatitol {
+font-family: Courier, Monaco, monospace;
+font-size: 100%;
+border: white solid 2px;    
+padding: 4px;
+padding-top: 4px;
+margin-left: 12px;
+background-color: black;    
+color: white;
+height: 30px;
+width: 330px;
+text-align: center;
+}
+#xuleta {
+font-family: Courier, Monaco, monospace;
+font-size: 80%;
+border: white solid 2px;    
+padding: 4px;
+margin-left: 12px;
+margin-top: 12px;
+background-color: black;    
+color: white;
+height: 440px;
+width: 330px;
+margin-bottom: 12px;
+}
+#spanmatriureal {
+color: white;     
+}
+footer {
+clear: both;
+background-color: black;
+color: white; 
+border: white solid 2px; 
+width: 684px;
+padding: 4px; 
+margin-top:12px;
+}
